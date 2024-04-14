@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Flinc Calculator Alpha</string>
+    <string name="onboardingtext1">Onboarding text 1</string>
+    <string name="onboardingtext2">Onboarding text 2</string>
+    <string name="onboardingtext3">Onboarding text 3</string>
+    <string name="lets_get_started">Let\'s Get Started</string>
+    <string name="transfer_and_bond_cost_calculator"><![CDATA[Transfer & Bond Cost Calculator]]></string>
+    <string name="visit_our_website">Visit our website</string>
+    <string name="property_purchase_price">Property Purchase Price</string>
+    <string name="loan_amount">Loan Amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="total_cost">Total Costs:</string>
+    <string name="total_transfer_cost">Total Transfer Costs:</string>
+    <string name="transfer_duty">Transfer Duty:</string>
+    <string name="attoney_fees">Attorney Fees:</string>
+    <string name="post_petties">Post &amp; Petties:</string>
+    <string name="total_bond_costs">Total Bond Costs</string>
+    <string name="deeds_office">Deeds Office:</string>
+    <string name="export">Export</string>
+    <string name="new_summary">New</string>
+    <string name="property_cost">Property Cost\n</string>
+    <string name="calculator_app">Calculator App\n</string>
+</resources>
